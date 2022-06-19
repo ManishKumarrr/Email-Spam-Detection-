@@ -1,1 +1,1 @@
-# Email-Spam-Detection-
+# Spam-Detector
